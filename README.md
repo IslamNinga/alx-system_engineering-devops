@@ -1,1 +1,3 @@
-shell navigation and test
+this file is mandatory for the project 
+
+
